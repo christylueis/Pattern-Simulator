@@ -9,4 +9,31 @@ It is used to generate pattern
 
  User can select the pattern according to his/her interest.
 
- user can pause the simulator and resume them. 
+ user can pause the simulator and resume them.
+
+File Menu 
+=>Exit
+
+View Menu
+=>Toolbar
+=>Status Bar
+
+Pattern Menu
+ 
+=>Select Pattern Dialog
+
+A Combo Box with the Following Items
+
+Select Pattern
+  
+OK | Cancel Button
+
+Operations Menu
+
+=>Start 
+
+=>Stop 
+
+Help Menu
+
+About PatternGenerator
