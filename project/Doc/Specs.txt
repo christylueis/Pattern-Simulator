@@ -1,0 +1,12 @@
+It is used to generate pattern
+
+  1.  Random Walk
+  
+  2.  Spiral Motion
+
+  3.  Damped Harmonic Oscilations
+
+
+ User can select the pattern according to his/her interest.
+
+ user can pause the simulator and resume them. 
